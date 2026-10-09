@@ -9,7 +9,6 @@ soong_namespace {
         "hardware/qcom-caf/wlan",
         "vendor/qcom/opensource/commonsys/display",
         "vendor/qcom/opensource/dataservices",
-        "vendor/qcom/opensource/display",
     ],
 }
 
